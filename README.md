@@ -3,5 +3,4 @@ A mod created by [Juani12ok](https://gamebanana.com/members/2105843) that let's 
 ***
 ![Current Version](https://img.shields.io/badge/Version-1.1-green)
 
-<img src="https://raw.githubusercontent.com/Juani12ok/Non-Trash-Stuff/refs/heads/discord-and-gb/images.gamebanana.com/static/svg/custom/banana.svg" alt="GameBanana Page" width="30" height="30">
-Main Mod
+<img src="https://raw.githubusercontent.com/Juani12ok/Non-Trash-Stuff/refs/heads/discord-and-gb/images.gamebanana.com/static/svg/custom/banana.svg" alt="GameBanana Page" width="30" height="30"> Main Mod
