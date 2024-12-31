@@ -2,4 +2,4 @@
 A mod created by [Juani12ok](https://gamebanana.com/members/2105843) that let's you customize the HUD as you wish.
 ***
 ![Current Version](https://img.shields.io/badge/Version-1.1-green)
-![GameBanana Page]()
+<img src="image-url" alt="GameBanana Page" width="300" height="300">
