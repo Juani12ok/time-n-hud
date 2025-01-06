@@ -1,8 +1,7 @@
 {
-	"ModName":
-	{
-		"Old": "Show Lives and Disable TIME when Infinite",
-		"New": "Customizable HUD for 3AIR",
-	},
-	"LatestVersion": "2.0"
+  "name": [
+    "Old": "Show Lives and Disable TIME when Infinite",
+    "New": "Customizable HUD for 3AIR",
+  ],
+  "version": "2.0"
 }
