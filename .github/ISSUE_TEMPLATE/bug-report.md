@@ -25,7 +25,7 @@ A clear and concise description of what you expected to happen.
 > Delete this section if it's not applicable for the issue.
 
 # Screenshots:
-If applicable, add Screenshots in this section to help explain your problem. To do that, erase this line and put an exclamation mark "!" at the beggining, the [Image Name] between brackets, and (Your Image Link) between parenthesis. It should look like "\!\[Image Name\]\(http://example.com)".
+If applicable, add Screenshots in this section to help explain your problem. To do that, erase this line and put an exclamation mark "!" at the beggining, the [Image Name] between brackets, and (Your Image Link) between parenthesis. It should look like "![Image Name](http://example.com)".
 
 # Your Device info:
 **(Please complete the following information):**
