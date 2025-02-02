@@ -4,7 +4,7 @@ A mod created by [Juani12ok](https://gamebanana.com/members/2105843) that let's 
 ![Current Version](https://img.shields.io/badge/Version-2.0-green)
 ![Issues Counter - GitHub](https://img.shields.io/github/issues/Juani12ok/time-n-hud?logo=GitHub&logoColor=FFFFFF)
 ![Issues Counter - GameBanana](https://img.shields.io/badge/issues-0%20open-00cf00?logo=GameBanana&logoColor=yellow)
-
-<!-- [<img src="https://raw.githubusercontent.com/Juani12ok/Non-Trash-Stuff/refs/heads/discord-and-gb/images.gamebanana.com/static/svg/custom/banana.svg" alt="GameBanana Page" width="10" height="10"> ← Main Mod](https://gamebanana.com/mods/561987) -->
 [![GameBanana Page](https://img.shields.io/badge/Main%20Mod-Active-green?logo=GameBanana&logoColor=yellow)](https://gamebanana.com/mods/561987)
 [![GitHub Proyect](https://img.shields.io/badge/proyect-Todo-000000?logo=github&logoColor=ffffff)](https://github.com/users/Juani12ok/projects/3)
+***
+<progress max="100" value="20"></progress>
