@@ -1,38 +1,39 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help me improve this mod
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# Error Message:
 
-**To Reproduce**
-Steps to reproduce the behavior:
+
+# Description:
+**Describe the bug.** Must be a clear and concise description of what the bug is.
+
+## Steps To Reproduce The Bug:
+> Delete this section if you don't know how to reproduce the glitch.
+**Example:**
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+2. Hang on '...'.
+3. Wait until '...' hits --'--''-- to '...'.
 
-**Expected behavior**
+## Expected behavior:
 A clear and concise description of what you expected to happen.
+> Delete this section if it's not applicable for the issue.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+# Screenshots:
+If applicable, add Screenshots in this section to help explain your problem. To do that, erase this line and put an exclamation mark "!" at the beggining, the [Image Name] between brackets, and (Your Image Link) between parenthesis. It should look like "\!\[Image Name\]\(http://example.com\)".
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+# Your Device info:
+**(Please complete the following information):**
+- Device: [e.g. Motorola]
+  - Type: [e.g. Mobile]
+- OS: [e.g. Android 11]
+- Game Version: [e.g. v24.02.02.1]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
+## Additional context:
 Add any other context about the problem here.
+> Delete this section if you already put all information needed and you don't need this section anymore.
