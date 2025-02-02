@@ -1,7 +1,7 @@
 # Show Lives and Disable TIME when Infinite
 A mod created by [Juani12ok](https://gamebanana.com/members/2105843) that let's you customize the HUD as you wish.
 ***
-![Current Version](https://img.shields.io/badge/Version-1.2-green)
+![Current Version](https://img.shields.io/badge/Version-2.0-green)
 ![Issues Counter - GitHub](https://img.shields.io/github/issues/Juani12ok/time-n-hud?logo=GitHub&logoColor=FFFFFF)
 ![Issues Counter - GameBanana](https://img.shields.io/badge/issues-0%20open-00cf00?logo=GameBanana&logoColor=yellow)
 
