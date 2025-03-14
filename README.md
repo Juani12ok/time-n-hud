@@ -12,5 +12,5 @@ A mod created by [Juani12ok](https://gamebanana.com/members/2105843) that let's 
 
 ## To-do
 
-[x] ~~Make the user able to make custom text~~
+[x] ~~Make the user able to make custom text~~  
 [x] ~~Fix disabled RINGS~~
