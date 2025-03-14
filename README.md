@@ -9,8 +9,3 @@ A mod created by [Juani12ok](https://gamebanana.com/members/2105843) that let's 
 ***
 ## Progress on the new update!
 <progress max="100" value="97"></progress>
-
-## To-do
-
-- [x] Make the user able to make custom text  
-- [x] Fix disabled RINGS
