@@ -7,4 +7,5 @@ A mod created by [Juani12ok](https://gamebanana.com/members/2105843) that let's 
 [![GameBanana Page](https://img.shields.io/badge/Main%20Mod-Active-green?logo=GameBanana&logoColor=yellow)](https://gamebanana.com/mods/561987)
 [![GitHub Proyect](https://img.shields.io/badge/proyect-Todo-000000?logo=github&logoColor=ffffff)](https://github.com/users/Juani12ok/projects/3)
 ***
-<progress max="100" value="20"></progress>
+## Progress on the new update!
+<progress max="100" value="97"></progress>
