@@ -18,7 +18,6 @@ For further info about what you can/can't do with this mod, refer to: https://ga
 
 ---
 
-The full license text follows.
+Canonical CC Link: https://creativecommons.org/licenses/by-sa/4.0/
 
 ---
-
